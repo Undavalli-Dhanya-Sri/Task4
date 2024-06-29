@@ -1,0 +1,11 @@
+/* src/components/Contact.css */
+.contact {
+    padding: 50px;
+    background-color: #f9f9f9;
+  }
+  
+  .contact h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  

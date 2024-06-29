@@ -1,0 +1,24 @@
+/* src/components/Projects.css */
+.projects {
+    padding: 50px;
+  }
+  
+  .projects h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .project-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .project-item {
+    background-color: #f1f1f1;
+    padding: 20px;
+    border-radius: 5px;
+    flex: 1;
+    min-width: 200px;
+  }
+  

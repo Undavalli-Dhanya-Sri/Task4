@@ -1,0 +1,11 @@
+/* src/components/About.css */
+.about {
+    padding: 50px;
+    background-color: #f9f9f9;
+  }
+  
+  .about h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+   
